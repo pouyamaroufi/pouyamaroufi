@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/pouya-maroufi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="22" width="22" /></a>
 <a href="https://twitter.com/pouyamaroufi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="22" width="22" /></a>
 <a href="https://www.youtube.com/channel/UCDyv2STOk7SU8_eNOPkvbCw" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" height="22" width="22" /></a>
-<a href="https://www.instagram.com/cyberskull.studio" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="22" width="22" /></a>
+<a href="https://www.instagram.com/pouya.maroufi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="22" width="22" /></a>
 <a href="https://dribbble.com/pouyamaroufi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="dribbble" height="22" width="22" /></a>
 <a href="https://www.behance.net/pouyamaroufi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="behance" height="22" width="22" /></a>
 
