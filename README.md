@@ -27,5 +27,4 @@
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=pouyamaroufi&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="pouyamaroufi" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyamaroufi&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="pouyamaroufi" align = "center"/></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=pouyamaroufi&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
 
