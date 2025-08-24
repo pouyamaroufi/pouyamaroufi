@@ -1,9 +1,9 @@
 <h1 align="center"> <img src="./assets/wave.gif" width="35"> Hi there, I'm Pouya </h1>
 
 <h2 align="center">✦ Love to Design & Develop Software Products ✦</h2> 
-
+<p  align="center"><img src="./assets/cat.gif" alt="cat" width="150">
 <br>
-<p align="center">Building smart UIs & digital experiences that matter, from Mobile Apps to UX-driven Frontend Web Development. I design and build digital products with a strong focus on user experience, scalability, with clean design. Currently exploring <b> React, Next.js & TailwindCSS </b> to bring my product ideas to life.</p>   
+<p align="center">Building smart UIs & digital experiences that matter, UX-driven Frontend & Ex-Flutter Developer. I design & build digital products with a strong focus on user experience, scalability, with clean Code. Currently exploring <b> React, Next.js & TailwindCSS </b> to bring my product ideas to life.</p>   
 <br>
 <h3 align="center">🛠️ Languages and Tools:</h3> 
 
