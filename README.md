@@ -9,19 +9,19 @@
 
 <p align="center">
 
-<img src="./assets/Dart.png" alt="Dart" width="55" height="55">
-<img src="./assets/Flutter.png" alt="Flutter" width="55" height="55">
-<img src="./assets/Swift.png" alt="Swift" width="55" height="55">
-<img src="./assets/Kotlin.png" alt="Kotlin" width="55" height="55">
+<img src="./assets/Dart.webp" alt="Dart" width="55" height="55">
+<img src="./assets/Flutter.webp" alt="Flutter" width="55" height="55">
+<img src="./assets/Swift.webp" alt="Swift" width="55" height="55">
+<img src="./assets/Kotlin.webp" alt="Kotlin" width="55" height="55">
 
-<img src="./assets/HTML.png" alt="HTML" width="55" height="55">
-<img src="./assets/CSS.png" alt="CSS" width="55" height="55">
-<img src="./assets/Javascript.png" alt="Javascript" width="55" height="55">
-<img src="./assets/Typescript.png" alt="Typescript" width="55" height="55">
-<img src="./assets/ReactJS.png" alt="ReactJS" width="55" height="55">
-<img src="./assets/NextJS.png" alt="ReactJS" width="55" height="55">
-<img src="./assets/Tailwind-CSS.png" alt="Tailwind" width="55" height="55">
-<img src="./assets/Docker.png" alt="Docker" width="55" height="55">
+<img src="./assets/HTML.webp" alt="HTML" width="55" height="55">
+<img src="./assets/CSS.webp" alt="CSS" width="55" height="55">
+<img src="./assets/Javascript.webp" alt="Javascript" width="55" height="55">
+<img src="./assets/Typescript.webp" alt="Typescript" width="55" height="55">
+<img src="./assets/ReactJS.webp" alt="ReactJS" width="55" height="55">
+<img src="./assets/NextJS.webp" alt="ReactJS" width="55" height="55">
+<img src="./assets/Tailwind-CSS.webp" alt="Tailwind" width="55" height="55">
+<img src="./assets/Docker.webp" alt="Docker" width="55" height="55">
 
 </p>
 
